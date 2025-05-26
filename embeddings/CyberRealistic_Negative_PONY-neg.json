@@ -1,0 +1,8 @@
+{
+    "sha256": "5C6E0BA4DDEC726268C347F0D18B0831DA635F182C1748E0AB5FB7D8AB6F4E1D",
+    "modelId": 1531977,
+    "modelVersionId": 972770,
+    "activation text": "CyberRealistic_Negative_PONY",
+    "description": "Want to buy me coffee? (Buy a cup) https://ko-fi.com/cyberdeliaThis Negative Embedding (TI) can assist you in achieving a more realistic portrayal when prompting.Pony: for Realistic Pony (like CyberRealistic Pony, but it should work with every Realistic Pony model) https://civitai.com/models/77976?modelVersionId=972770SDXL: for SDXL versions https://civitai.com/models/77976?modelVersionId=969489Realistic 1.5: use standard version (V1.0) https://civitai.com/models/77976?modelVersionId=82745Semi-Realistic/Anime 1.5: use Anime version https://civitai.com/models/77976?modelVersionId=244417How to useDownload the file and place it in your embeddings folder. If you're using A1111 Webui, the folder path would be stable-diffusion-webui/embeddings (refer to the documentation to find the correct location for embeddings for other programs).Once the file is in the designated folder, utilize the embedding by entering its name into the \"negative prompt\" box instead of the usual prompt. The default names are CyberRealistic_Negative, or CyberRealistic_Negative_Anime, depending on the version you downloaded.",
+    "sd version": "Other"
+}
